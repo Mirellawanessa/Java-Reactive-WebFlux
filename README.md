@@ -30,7 +30,7 @@ Durante o curso, explorei:
 
 | Nome do Projeto | Descrição |
 |-----------------|-----------|
-| [DESAFIO-REACTOR]([https://github.com/Mirellawanessa/DESAFIO-REACTOR](https://github.com/Mirellawanessa/Java-Reactive-WebFlux/tree/main/dio-desafio-reactor)) | Exercícios práticos para fixar os conceitos de Mono e Flux utilizando Reactor, base da programação reativa. |
+| [DESAFIO-REACTOR](https://github.com/Mirellawanessa/Java-Reactive-WebFlux/tree/main/dio-desafio-reactor) | Exercícios práticos para fixar os conceitos de Mono e Flux utilizando Reactor, base da programação reativa. |
 | [Bingo-API](https://github.com/Mirellawanessa/Java-Reactive-WebFlux/tree/main/Bingo%20API/Bingo) | Uma API reativa desenvolvida com Spring WebFlux para simular um jogo de Bingo com emissão de eventos assíncronos. |
 
 > 🔗 *Clique no nome do projeto para navegar até o repositório correspondente.*
